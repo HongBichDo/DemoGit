@@ -1,4 +1,4 @@
-## Cấu trúc folder
+* Cấu trúc folder
 ``` sh
  /bin: chứa các file chạy
  /boot: nhân HĐH
