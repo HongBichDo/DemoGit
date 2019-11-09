@@ -21,7 +21,7 @@
 
 | Commands | Result |
 |----------|--------|
-| cd | thay đổi từ thư mucj hiện tại |
+| cd | thay đổi từ thư mục hiện tại |
 | cd .. | trở về thư mục trước đó |
 | cd - | thư mục làm việc cuối cùng |
 | cd ../../ | di chuyển về 2 thư mục |
