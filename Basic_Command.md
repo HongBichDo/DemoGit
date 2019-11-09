@@ -1,8 +1,9 @@
 # Cấu trúc folder
-* /bin: chứa các file chạy
-* /boot: nhân HĐH
-* /etc: các cấu hình hệ thống
-* /home: Users
+`
+ /bin: chứa các file chạy
+ /boot: nhân HĐH
+ /etc: các cấu hình hệ thống
+ /home: Users `
 # 
 | Commands | Result |
 |----------|--------|
