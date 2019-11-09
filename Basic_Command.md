@@ -18,6 +18,7 @@
 
 ## Di chuyển thư mục
 **Lệnh cd (Change Directory) giúp điều ướng đến thư mục**
+
 | Commands | Result |
 |----------|--------|
 | cd | thay đổi từ thư mucj hiện tại |
