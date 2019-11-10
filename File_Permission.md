@@ -45,8 +45,8 @@ Các chỉ số phân quyền của file abc.txt như sau:
 - `-rw`: quyền của Owner
 - `-r-`: quyền của các Users thuộc group sở hữu
 - `-r-`: quyền cho các Users khác
-*Phân quyền đói với file sử dụng `chmod`*
 ```sh
+*Phân quyền đói với file sử dụng `chmod`*
 chmod 775 abc.txt
 -rwxrwxr-x 1 bichdth bichdth 0 Nov  6 18:59 abc.txt
 ```
