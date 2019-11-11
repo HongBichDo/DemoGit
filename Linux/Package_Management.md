@@ -8,8 +8,9 @@ Các tính năng của PMS
 `Quality control`
 ## Quản lý Package bằng RPM
 RPM Package Manager (RPM) Gói cài đặt cho các hệ điều hành Linux họ Fedora,RedHat… Ví dụ: Centos OS
-| Lệnh | apt |
-|------|-----|
+
+| Commands | Result |
+|----------|--------|
 | rpm -ivh [package.rpm] | Cài đặt gói package.rpm |
 | rpm -e [package] | Gỡ bỏ rpm package |
 | rpm -qa | Liệt kê tất cả các rpm package trong hệ thống. |
