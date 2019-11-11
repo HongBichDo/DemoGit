@@ -11,7 +11,7 @@ Tuy nhiên, LVM có các bước thiết lập phức tạp và khó kh�
 - File systems: hệ thống tập tin quản lý các file và thư mịc trên ổ đĩa. Chúngđược mount tới các Logical Volume trong LVM.
 
 ## Tạo và quản lý Logical Volume Manager
-* Tạo physical volume
+### physical volume
 Chạy lệnh sau để tạo physical volume(PV) trên `/dev/sdb`, `/dev/sdc`, và `/dev/sdd`
 ```sh
 fdisk -l
@@ -47,7 +47,7 @@ pvdisplay /dev/sda
   Allocated PE          9982
   PV UUID               brEcMX-44Zb-5J1d-v8Yd-w92z-aqsX-mAXEcd
 ```
-* Thông tin Volume Group
+### Volume Group
 ```sh
 vgdisplay
 --- Volume group ---
@@ -81,7 +81,8 @@ VG #PV #LV #SN Attr   VSize   VFree
 cl   1   2   0 wz--n- <39.00g 4.00m
 ```  
 Khi tạophysical Volume, cần xem xét dung lượng sao cho phù hợp nhu cầu sử dụng.
-* Logical Volume
+
+### Logical Volume
 Xem danh sách logical volume vừa được tạo với lệnh `lvs`
 ```sh
 lvs
