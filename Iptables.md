@@ -1,8 +1,8 @@
 Iptables Linux firewall được sử dụng trong Linux để theo dõi lưu lượng truy cập đến và đi ở một máy chủ. Dựa trên các rules để ngăn chặn quyền truy cập vào hệ thống. Iptables sử dụng để định nghĩa các rules cho người dùng.
 Iptables là một ứng dụng dòng lệnh và là firewall của Linux. Một gói tin khi đã được xác định để gửi đi đều có các `target` như sau:
--`ACCEPT` gói tin được phép đi qua
--`DROP` gói tin không được phép qua
--`RETURN` bỏ qua target hiện tại và quay lại 
+- `ACCEPT` gói tin được phép đi qua
+- `DROP` gói tin không được phép qua
+- `RETURN` bỏ qua target hiện tại và quay lại 
 Trên Linux có sẵn 1 firewall là Framework lọc gói tin là netfilter (theo IP và Port) sử dụng IPtable thiết lập các luật của firewall.
 
 ## Cài đặt iptables
