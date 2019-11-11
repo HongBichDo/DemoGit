@@ -22,6 +22,7 @@ RPM Package Manager (RPM) Gói cài đặt cho các hệ điều hành Linux h�
 
 ## YUM packages
 YUM là phương pháp cài đặt cho các hệ điều hành Linux họ Fedora,RedHat… Ví dụ: Centos OS
+
 | Commands | Result |
 |----------|--------|
 | yum -y install [package] | Tải và Cài đặt gói tin |
@@ -32,6 +33,7 @@ YUM là phương pháp cài đặt cho các hệ điều hành Linux họ Fedor
 
 ## DEB packages 
 Gói ứng dụng cho các hệ điều hành Linux họ Debian, Ubuntu…
+
 | Commands | Result |
 |----------|--------|
 | dpkg -i [package.deb] | Cài đặt/nâng cấp |
@@ -41,6 +43,7 @@ Gói ứng dụng cho các hệ điều hành Linux họ Debian, Ubuntu…
 
 ## APT packages (Debian, Ubuntu, …)
 Phương pháp cài đặt ứng dụng cho các hệ điều hành Linux họ Debian, Ubuntu…
+
 | Commands | Result |
 |----------|--------|
 | apt-get install [package] | Cài đặt/nâng cấp |
