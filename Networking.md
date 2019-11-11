@@ -1,3 +1,4 @@
+
 Hầu hết các máy tính ngày nay đều có một card Ethernet để nối vào mạng LAN. Khi cài đặt Linux, thiết bị này được gọi là eth0. 
 `ip a`: địa chỉ IP
 `ip route` : default gateway
