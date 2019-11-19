@@ -24,9 +24,10 @@ Improve collaboration between all stakeholders from planning through delivery an
 - Sharing: Share experiences, success or not, to enable others to learn - Collaboration/Feedback.   
 
 # DevOps Toolchain
-![Devops_Tool](Images/devopstool.png)
 A DevOps toolchain is a set or combination of tools that aid in the delivery, development, and management of software applications throughout the systems development life cycle, as coordinated by an organisation that uses DevOps practices.
 Generally, DevOps tools fit into one or more activities, which supports specific DevOps initiatives: Plan, Create, Verify, Package Release, Configure, Monitor, and Version Control
+
+![Devops_Tool](Images/devopstool.png)
 
 ## Stage of DevOps
 - Plan: Plan is composed of two things: "define" and "plan". This phase helps define business value and requirements. Sample tools include Jira or Git to help track known issues and perform project management.
@@ -38,19 +39,21 @@ Generally, DevOps tools fit into one or more activities, which supports specific
 - Monitor: involves identifying,  collecting information about issues from a specific software release in production.
 
 # DevOps Practices
-![Devops](Images/devops_practices.jpg)
+![Devops_Practices](Images/devops_practices.jpg)
 
 ## Configuration management
 Software applications and services need a physical or virtual environment on which they can be deployed. Configuration management helps in the following ways:
 - Infrastructure as Code: automate the provisioning, configuration of infrastructure,  enables the provisioning of an environment multiple times in a consistent and predictable manner
 - Deployment and configuration of an application: Configuration management stores values for the application configuration for each environment on which it is deployed.
 
+![Devops_CICD](Images/CICD.png)
 ##  Continuous integration
 Continuous integration (CI) is a software engineering practice where members of a team integrate their work with increasing frequency. In keeping with CI practice, teams strive to integrate at least daily and even hourly, approaching integration that occurs “continuous-ly.”
 ## Continuous delivery
 Continuous delivery (CD) is to packaging and deployment what CI is to build and test. Teams practicing CD can build, configure, and package software and orchestrate its deployment in such a way that it can be released to production in a software-defined manner (low cost, high automation) at any time.
 
 # What is CI/CD in DevOps? And how are they related to Agile?
+![Devops_agile](Images/agile_devops.jpg)
 Engineering teams often start with CI because it’s in their wheelhouse. A DevOps focus can help organizations understand what configuration, packaging, and orchestration are necessary to software-define even more of the life cycle—creating a more valuable CD practice. The practice of CI/CD in DevOps, in turn, adds to agile development.
 - Agile focuses on processes highlighting change while accelerating delivery.
 - CI/CD focuses on software-defined life cycles highlighting tools that emphasize automation.
@@ -60,3 +63,5 @@ Engineering teams often start with CI because it’s in their wheelhouse. A DevO
 - https://en.wikipedia.org/wiki/DevOps_toolchain
 - https://www.synopsys.com/blogs/software-security/agile-cicd-devops-difference/
 - https://subscription.packtpub.com/book/networking_and_servers/9781786468550/1/ch01lvl1sec10/devops-practices
+- https://blog.testlodge.com/what-is-devops/
+- https://www.atlassian.com/devops
