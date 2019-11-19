@@ -53,7 +53,7 @@ Continuous integration (CI) is a software engineering practice where members of 
 Continuous delivery (CD) is to packaging and deployment what CI is to build and test. Teams practicing CD can build, configure, and package software and orchestrate its deployment in such a way that it can be released to production in a software-defined manner (low cost, high automation) at any time.
 
 # What is CI/CD in DevOps? And how are they related to Agile?
-![Devops_agile](Images/agile_devops.jpg)
+![Devops_agile](Images/agile_devops.png)
 
 Engineering teams often start with CI because it’s in their wheelhouse. A DevOps focus can help organizations understand what configuration, packaging, and orchestration are necessary to software-define even more of the life cycle—creating a more valuable CD practice. The practice of CI/CD in DevOps, in turn, adds to agile development.
 - Agile focuses on processes highlighting change while accelerating delivery.
