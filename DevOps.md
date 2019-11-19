@@ -54,6 +54,7 @@ Continuous delivery (CD) is to packaging and deployment what CI is to build and 
 
 # What is CI/CD in DevOps? And how are they related to Agile?
 ![Devops_agile](Images/agile_devops.jpg)
+
 Engineering teams often start with CI because it’s in their wheelhouse. A DevOps focus can help organizations understand what configuration, packaging, and orchestration are necessary to software-define even more of the life cycle—creating a more valuable CD practice. The practice of CI/CD in DevOps, in turn, adds to agile development.
 - Agile focuses on processes highlighting change while accelerating delivery.
 - CI/CD focuses on software-defined life cycles highlighting tools that emphasize automation.
