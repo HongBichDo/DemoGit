@@ -1,10 +1,11 @@
 # What is the DevOps
 DevOps is a set of practices that automates the processes between software development and IT teams, in order that they can build, test, and release software faster and more reliably.
 The concept of DevOps is founded on building a culture of collaboration between teams that historically functioned in relative siloes. The promised benefits include increased trust, faster software releases, ability to solve critical issues quickly, and better manage unplanned work.
-![Devops_Scaling](Images/devops.png)
+![Devops](Images/devops.png)
 **At its essence, DevOps is a culture, a movement, a philosophy.**
+
 It's a firm handshake between development and operations that emphasizes a shift in mindset, better collaboration, and tighter integration. It unites agile, continuous delivery, automation, and much more, to help development and operations teams be more efficient, innovate faster, and deliver higher value to businesses and customers.
-* DevOps Lifecycle
+## DevOps Lifecycle
 Improve collaboration between all stakeholders from planning through delivery and automation of the delivery process in order to:
 - Improve deployment frequency
 - Achieve faster time to market
@@ -17,7 +18,7 @@ This is accomplished by implementing and adhering to a straightforward lifecycle
 - Continuous Testing
 - Continuous Monitoring
 - Virtualization and Containerization
-* The CALMS Framework for DevOps
+## The CALMS Framework for DevOps
 - Culture: Ơn the change to drive collaboration and communication - People > Process > Tools
 - Automatic: Take manual steps out of your value chain - Infastructure as Code
 - Lean: Use lean principles to enable hinger cycle frequency - Focus on value and customer
